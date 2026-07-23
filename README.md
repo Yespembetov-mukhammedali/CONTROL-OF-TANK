@@ -22,3 +22,11 @@ Because tanks and pumps are physical equipment, protecting them is a big part of
 Develop a program for automatic filling of the tank. When the set level thresholds are reached, the indicators LOW, MED, HIGH should be triggered, and the degree of filling should be displayed on a graphical scale. Implement visualization on the HMI: pump start/stop buttons, level indicators and filling scale.
 
 [![Watch the video](./images/HMI9_screen.jpg)](https://youtu.be/3jc2v3dQB6U)
+
+## Task 2
+
+Develop a tank level control program with two modes: automatic and manual, as well as with two operation directions: filling and draining. The values "lower threshold" and "upper threshold" are set from the operator panel. In automatic mode "Filling", when the level is lower or equal to the lower threshold, switch on the pump and conduct the process until the upper threshold is reached, after which the pump is switched off. In automatic mode "Drain", when the level is above or equal to the upper threshold, open the drain valve and conduct the process until the level drops below the lower threshold, then switch off the pump. Level below the lower threshold, then close the valve. In manual mode the operator can switch on only one actuator - pump or drain valve; simultaneous switching on is prohibited. On the operator panel to provide buttons "Start" and "Stop", mode switches, input fields of thresholds, graphical scale of level and three indicators "low", "medium", "high". Provide emergency stop and correct operation of indication when the level passes  the set thresholds.
+
+[![Watch the video](./images/Video_preview.png)](https://youtube.com/shorts/PptSstsuSxg)
+
+
