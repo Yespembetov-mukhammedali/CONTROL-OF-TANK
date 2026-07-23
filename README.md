@@ -17,6 +17,6 @@ Because tanks and pumps are physical equipment, protecting them is a big part of
 * If something dangerous happens — like the tank running dry or overflowing — the system stops the equipment right away and sends an alarm.
 * Alarms stay active (latched) until the operator confirms them on the HMI screen, even if the problem is already gone. This way, nothing gets ignored.
 
-## Video Demonstration
+## Video Demonstration (Just click to the picture)
 
 [![Watch the video](./images/HMI9_screen.jpg)](https://youtu.be/3jc2v3dQB6U)
