@@ -18,3 +18,5 @@ Because tanks and pumps are physical equipment, protecting them is a big part of
 * Alarms stay active (latched) until the operator confirms them on the HMI screen, even if the problem is already gone. This way, nothing gets ignored.
 
 ## Video Demonstration
+
+[![Watch the video](./images/Video_preview.png)](https://youtu.be/3jc2v3dQB6U)
