@@ -19,4 +19,4 @@ Because tanks and pumps are physical equipment, protecting them is a big part of
 
 ## Video Demonstration
 
-[![Watch the video](./images/Video_preview.png)](https://youtu.be/3jc2v3dQB6U)
+[![Watch the video](./images/HMI9_screen.jpg)](https://youtu.be/3jc2v3dQB6U)
