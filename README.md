@@ -16,3 +16,5 @@ Because tanks and pumps are physical equipment, protecting them is a big part of
 * Hysteresis is added between the ON and OFF levels, so valves and pumps don't switch on and off too fast and wear out.
 * If something dangerous happens — like the tank running dry or overflowing — the system stops the equipment right away and sends an alarm.
 * Alarms stay active (latched) until the operator confirms them on the HMI screen, even if the problem is already gone. This way, nothing gets ignored.
+
+## Video Demonstration
