@@ -6,9 +6,9 @@ This kind of system is used in real factories: food production, chemical plants,
 
 ## Blocks I used
 
-* **AND / OR / NOT – to combine sensor signals and decide what should happen next.
-* **TON / TOF / TP timers – to add delays or short pulses (for example, wait a few seconds before starting the mixer).
-* **RS / SR triggers – to "remember" a state, like keeping the pump ON until a stop condition happens.
+* AND / OR / NOT – to combine sensor signals and decide what should happen next.
+* TON / TOF / TP timers – to add delays or short pulses (for example, wait a few seconds before starting the mixer).
+* RS / SR triggers – to "remember" a state, like keeping the pump ON until a stop condition happens.
 Scaling and comparison blocks – to turn analog sensor values into real numbers (like percentage of tank level) and compare them to set points.
 
 ## Safety and Protection
