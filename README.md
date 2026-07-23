@@ -19,4 +19,6 @@ Because tanks and pumps are physical equipment, protecting them is a big part of
 
 ## Video Demonstration (Just click to the picture)
 
+Develop a program for automatic filling of the tank. When the set level thresholds are reached, the indicators LOW, MED, HIGH should be triggered, and the degree of filling should be displayed on a graphical scale. Implement visualization on the HMI: pump start/stop buttons, level indicators and filling scale.
+
 [![Watch the video](./images/HMI9_screen.jpg)](https://youtu.be/3jc2v3dQB6U)
